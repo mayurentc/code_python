@@ -1,2 +1,5 @@
 def add(x,y):
-    pass
+    c = x + y
+    print(c)
+
+add(10,20)
